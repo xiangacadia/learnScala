@@ -2,6 +2,9 @@
 // Description: First Scala Program
 // From: A Scala Tutorial for Java Programmers
 
+// Compile: scalac HelloWorld.scala
+// Run:     scala -classpath . HelloWorld
+
 // This format is like Java, which is purely object oriented.
 
 // *object* declares a singleton object.
